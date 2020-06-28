@@ -1,6 +1,9 @@
 # Retro List
 The future of list apps, in a retro style. It's your typical app where you can add items, but there are sneaky bugs. Expect the unexpected!
 
+# Running the app
+Remember to `run flutter pub get`
+
 # User Guidelines
 Just open up the app and start adding items to your list!
 The app will automatically save when items are added so once you are done listing things, just close the app. It's as simple as that. 
