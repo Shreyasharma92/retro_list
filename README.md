@@ -1,7 +1,7 @@
-# retro_list
+# Retro List
 The future of list apps, in a retro style. It's your typical app where you can add items, but there are sneaky bugs. Expect the unexpected!
 
-# User guidelines
+# User Guidelines
 Just open up the app and start adding items to your list!
 The app will automatically save when items are added so once you are done listing things, just close the app. It's as simple as that. 
 
@@ -23,7 +23,7 @@ Can I add emojis to my list?
 Is there a way to switch off the bugs?
 - Nope! Just like in real life, the bugs are here to stay.
 
-# Upcoming features
+# Upcoming Features
 - Multiple lists
 - More emojis
 - Retro style keyboard
