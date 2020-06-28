@@ -2,7 +2,7 @@
 The future of list apps, in a retro style. It's your typical app where you can add items, but there are sneaky bugs. Expect the unexpected!
 
 # Running the app
-Remember to `run flutter pub get`
+Remember to run `flutter pub get`
 
 # User Guidelines
 Just open up the app and start adding items to your list!
